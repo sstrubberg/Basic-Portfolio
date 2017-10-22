@@ -1,0 +1,21 @@
+header {
+    border: 1px solid black;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin-left: 103px;
+    margin-right: 700px;
+}
+
+body {
+    color: #777777;
+    width: 960px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url("#");
+
+}
+
+/*h1 {
+    color:white;
+}
